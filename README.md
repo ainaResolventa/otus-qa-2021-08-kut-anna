@@ -1,1 +1,2 @@
-git-project-qa-js
+##READMI FILE##
+*About broject...
