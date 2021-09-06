@@ -1,6 +1,6 @@
-##READMI FILE##
-*About broject...
+## README FILE ##
+* About project...
 
-#Prospected feature list #
-*A
-*B
+# Prospected feature list  #
+- F1
+- F2
